@@ -1,0 +1,108 @@
+/*Add Comment */
+main{
+    background-color:#F7F6F3;
+}
+
+.cocoLogo {
+    justify-content:left;
+    width:75%;
+}
+
+.cocoLogo a{
+    color: #38808F!important;
+    font-weight:300;
+    font-size:3Vh;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.cocoLogo a:hover{
+    color:#FBE0D3 !important;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.navLinks a{
+    color:#ACC3D1 !important;
+    padding:10px;
+
+    text-decoration:none;
+    font-family: 'Montserrat', sans-serif;
+    transition: 0.5s;
+}
+
+
+.navLinks a:hover{
+    color:#38808F !important;
+    text-decoration: underline;
+}
+
+.footerText{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    margin:0 auto;
+    width:300px;
+    height:100px;
+    padding:0;
+
+}
+
+
+
+
+
+
+.connected {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 15px;
+    font-weight:900;
+    margin:0 auto;
+
+
+}
+
+.cocoCopyright{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 12px;
+    color:gray;
+    padding-top:auto 0;
+    
+}
+.socialIcons img{
+    height:50px;
+    padding:none;
+    margin:0 auto;
+}
+.socialIcons a{
+    transition: 0.3s;
+}
+.socialIcons a:hover{
+    opacity: 50%;
+}
+
+
+
+.LNFYprojectHeader{
+    background-image:url(../images/LNFY_Frosty.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+.timeline{
+    padding-top:50px;
+    padding-bottom:50px;
+
+    background-color:white;
+}
+
+.projTitle{
+    padding-top:25px;
+}
+
+.LNFYimg{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -106,3 +106,13 @@ main{
     align-items: center;
     justify-content: center;
 }
+
+.defineIdeate{
+    background-color: white;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-size: cover;
+    margin:0 auto;
+
+
+}

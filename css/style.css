@@ -94,7 +94,6 @@ main{
     padding-top:50px;
     padding-bottom:50px;
 
-    background-color:white;
 }
 
 .projTitle{
@@ -108,11 +107,53 @@ main{
 }
 
 .defineIdeate{
-    background-color: white;
     padding-top:50px;
     padding-bottom:50px;
     background-size: cover;
     margin:0 auto;
 
 
+}
+
+.portfolioRow{
+    margin-bottom:30px;
+}
+
+.sectionInteriorRow
+
+.lgImg {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h1,h3,h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+
+}
+
+.protoPersona p{
+    font-size:12.5px;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+h3{
+    text-decoration:underline;
+}
+
+.testingImgs{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
 }
